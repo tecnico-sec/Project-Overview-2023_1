@@ -63,7 +63,7 @@ When the selection form opens, sort all the scenarios by order of preference and
 Number 1 will be your most preferred topic.
 
 Each team should be represented by one student only.
-In the selection form, identify your team as `CXX`, where `C` is replaced by A(lameda) or T(aguspark) and `XX` is replaced by the two digits of your group number, as assigned by F�nix.
+In the selection form, identify your team as `CXX`, where `C` is replaced by A(lameda) or T(aguspark) and `XX` is replaced by the two digits of your group number, as assigned by Fénix.
 For example, group 22 of Taguspark is T22 and group 7 of Alameda is A07.
 
 To assure topic diversity, there are limited vacancies for each project scenario.
@@ -158,7 +158,7 @@ The report document should update and extend the previous versions of reports.
 
 Before the final deadline of the project, submit an archive with all the developed code and resources, and the report document.
 
-IMPORTANT: the code archive and the report are submitted separately on the F�nix system.
+IMPORTANT: the code archive and the report are submitted separately on the Fénix system.
 
 ## 1.11. Check presentation session
 
@@ -206,7 +206,7 @@ The following requirements apply to all versions of the report:
 
 - PDF format;
 - Mandatory file name `YYYY-MM-DD_CXX.pdf`
-(where `C` is A for Alameda, T for Tagus, `XX` is the Fenix group number with two digits, `YYYY-MM-DD` corresponds to year, month and date of the document);
+(where `C` is A for Alameda, T for Tagus, `XX` is the Fénix group number with two digits, `YYYY-MM-DD` corresponds to year, month and date of the document);
 
 - Report cover: Project title. Headed by course name, group campus, group number.  
 In the next row: group members sorted by ascending student number.
@@ -315,7 +315,7 @@ The code archive to submit must follow the guidelines:
 
 ## 2.3. Presentation archive requirements
 
-After making the presentation, you will have to submit the presentation and video on F�nix.
+After making the presentation, you will have to submit the presentation and video on Fénix.
 The presentation archive must follow the guidelines:
 
 - ZIP format;
