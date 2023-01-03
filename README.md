@@ -311,7 +311,14 @@ The code archive to submit must follow the guidelines:
 - `ReadMe` file, describing the required platform (e.g., Linux 64-bit, Ubuntu 20.04.3 LTS, Java 8u181) and setup instructions;
 - All configuration files and scripts required to configure the solution on the specified platform;
 - All developed source code;
-- Existing tests and example files.
+- Existing tests and example files;
+- Hashes of large files.
+
+For all virtual machine files (or other files >50MB), please submit a file with the same name as the original, with the suffix `.hash`, containing the SHA256 value of its contents.
+For computing the hash, you can use the [`sha256sum` command](https://man7.org/linux/man-pages/man1/sha256sum.1.html) on Linux, or the [`certutil -hashfile` command](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/certutil) on Windows, or any other tool that correctly implements the algorithm.
+
+Remember to backup all the virtual machine files (or other files >50MB) _at the time of submission_ and DO NOT touch them (golden template), so that later verification of hashes will hold (e.g. put them as read only).
+If any changes are made, make sure you do them on a copy of these files.
 
 ## 2.3. Presentation archive requirements
 
