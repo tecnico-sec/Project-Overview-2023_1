@@ -168,7 +168,7 @@ The presentation session calendar will be made available during the final days o
 Each team is assigned to a session, in their respective campus, preferably in the time-slot of laboratory they are enrolled to.  
 If your group requires a change in the proposed slot, please contact faculty in advance.
 
-Each group will have to attend the full presentation session where they will present.  
+Each group will have to attend the full presentation session where they will present and one additional session.  
 The presentation slides must be in English and the presenters should also present in English.  
 For the discussion questions, students can answer in Portuguese.
 
