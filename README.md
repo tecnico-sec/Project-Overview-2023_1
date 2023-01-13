@@ -326,7 +326,7 @@ After making the presentation, you will have to submit the presentation and vide
 The presentation archive must follow the guidelines:
 
 - ZIP format;
-- The mandatory file name is `CXX_WWW_HHMM_L_presentation.zip`;
+- The mandatory file name is `CXX_L_presentation.zip`;
 - Presentation in PDF and also in source format (e.g. PowerPoint);
 - Text file containing link(s) to download the demo video and screenshots of the solution.
 The links must be valid for one month, at least.
